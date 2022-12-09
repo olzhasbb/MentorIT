@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Olzhas</h1>
 <h3 align="center">A passionate frontend developer from Kazakhstan</h3>
 
-- 🔭 I’m currently working on **Vzlet**
+- 🔭 I’m currently working on **Vzlet course platform**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
