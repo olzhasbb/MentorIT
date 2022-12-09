@@ -1,1 +1,1 @@
-# MentorIT
+# Course platform page 'Vzlet'
